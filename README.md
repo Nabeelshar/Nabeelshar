@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://twitter.com/sharnabeel)
+[![Header](https://github.com/Nabeelshar/Nabeelshar/blob/main/header.jpg "Header")](https://twitter.com/sharnabeel)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -21,11 +21,11 @@ My name is Nabeel Shar and I'm a programmer. I'm from Space, living in Mars and 
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+## &#x270d; Novel Reading
 
 Apart from coding, I also reads Novels.
 
-A sample of my recent articles:
+<!-- A sample of my recent articles: -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Automate All the Boring Kubernetes Operations with Python](https://martinheinz.dev/blog/73)
@@ -37,7 +37,7 @@ A sample of my recent articles:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nabeelshar/nabeelshar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelshar&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/nabeelshar/nabeelshar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
