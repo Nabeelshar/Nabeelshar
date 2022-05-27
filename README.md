@@ -31,6 +31,9 @@ Apart from coding, I also reads Novels.
 <!-- - [Automate All the Boring Kubernetes Operations with Python](https://martinheinz.dev/blog/73)
 - [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://martinheinz.dev/blog/72)
 - [Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://bit.ly/3JLmSgA)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 - [Python f-strings Are More Powerful Than You Might Think](https://bit.ly/3uETfbi) -->
 <!-- BLOG-POST-LIST:END -->
 
