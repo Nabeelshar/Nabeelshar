@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://github.com/Nabeelshar/Nabeelshar/blob/main/header.jpg "Header")](https://twitter.com/sharnabeel)
+[![Header](https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm88-minty-06_3.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=126e15f739a95d126ad7153fcfe30560 "Header")](https://twitter.com/sharnabeel)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
