@@ -85,7 +85,6 @@ Apart from coding, I also reads Novels.
 ##
 ##
 ##
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
